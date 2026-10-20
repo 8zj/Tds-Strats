@@ -1,11 +1,3 @@
-
-*-- [[*
-*-- Towers: DJ Booth, Engineer, Scout, Accelerator, Hacker*
-*-- Mode: Molten*
-*-- GameInfo: Unknown*
-*-- Map: Crossroads*
-*-- Modifiers: None*
-*-- ]]*
 -- [[ Wave 1 ]] --
 PSH:Place("Scout", 2.638, 1.000, -28.379)
 PSH:Place("Scout", 2.713, 1.000, -25.027)
