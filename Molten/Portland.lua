@@ -1,3 +1,4 @@
+-- timeout: 18mins
 -- [[ Wave 1 ]] --
 PSH:Place("Scout", -11.196, 4.020, 54.218)
 PSH:Upgrade(1)
