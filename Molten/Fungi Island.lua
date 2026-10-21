@@ -1,4 +1,4 @@
--- timeout: 19m
+-- timeout: 19 mins
 -- [[ Wave 0 ]] --
 PSH:Place("Scout", 13.555, 1.000, 41.527)
 PSH:Place("Scout", 13.592, 1.000, 38.431)
